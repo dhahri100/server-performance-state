@@ -18,3 +18,5 @@ Rendez le script exécutable et lancez-le :
 chmod +x server-stats.sh
 ./server-stats.sh
 
+https://github.com/dhahri100/server-performance-state
+
