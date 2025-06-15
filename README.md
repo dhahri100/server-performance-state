@@ -1,4 +1,4 @@
-Project URL: https://github.com/dhahri100/server-performance-state 
+Project URL: https://roadmap.sh/projects/server-stats 
 
 # Server Performance Stats
 
